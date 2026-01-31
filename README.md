@@ -17,10 +17,5 @@ I am a **Communication and Electronics Engineer** with a passion for uncovering 
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/toqaezzatly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toqaezzatly" height="30" width="40" /></a>
-  
-<a href="mailto:toqaezzatly@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="toqaezzatly" height="30" width="30" /></a>
-</p>
-
+🤝 Connect with Me
+<p align="left"> <a href="https://linkedin.com/in/toqaezzatly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toqaezzatly" height="30" width="40" /></a> <a href="mailto:toqaezzatly@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="toqaezzatly" height="30" width="40" /></a> </p>
