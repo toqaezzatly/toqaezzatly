@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Engineer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Penetration+Tester;Full+Stack+Developer;IoT+Security+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Penetration+Tester;Bughunter" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ I am a **Communication and Electronics Engineer** with a passion for uncovering 
 
 - 🌍 Check out my Portfolio: [toqaezzatly.github.io/toqaezzatly/](https://toqaezzatly.github.io/toqaezzatly/)
 - 🔭 Currently sharpening my skills in: **Red Teaming & Active Directory Attacks**
-- 🛡️ My Philosophy: *"Defense is not just a wall; it's understanding the hammer that hits it."*
+- 🛡️ My Philosophy: *"Defense isn’t merely about building walls; it’s about knowing the hammer that strikes them — and that’s where Ethical Hacking finds its purpose."*
 
 
 ---
