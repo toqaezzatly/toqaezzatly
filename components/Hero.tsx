@@ -79,7 +79,7 @@ const Hero: React.FC = () => {
                   <span className="text-cyan-400">~</span>
                   <span className="text-white">whoami</span>
                 </div>
-                <div className="text-gray-400 pl-6">toqa_ayman_gomaa</div>
+                <div className="text-gray-400 pl-6">toqa_ezzatly</div>
                 <div className="flex items-center space-x-2">
                   <span className="text-emerald-500">➜</span>
                   <span className="text-cyan-400">~</span>
