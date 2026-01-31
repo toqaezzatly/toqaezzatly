@@ -1,0 +1,7 @@
+{
+  "name": "Toqa Ayman Gomaa - Professional Pentester Portfolio",
+  "description": "A high-end, responsive portfolio for a cybersecurity enthusiast and penetration tester featuring interactive skill sets, project showcases, and a Gemini-powered security assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
