@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Engineer | Offensive Security Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Offensive+Security+Researcher;Penetration+Tester;Bug+Hunte" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Offensive+Security+Researcher;Penetration+Tester;Bug+Hunter" alt="Typing SVG" />
 </p>
 
 ---
