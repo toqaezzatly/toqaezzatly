@@ -27,7 +27,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center space-x-2">
             <Terminal className="text-emerald-500 w-8 h-8" />
             <span className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent font-mono">
-              TOQA_GOMAA.sh
+              TOQA_EZZATLY.sh
             </span>
           </div>
 
