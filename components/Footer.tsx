@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
           </div>
 
           <div className="text-xs text-gray-600 font-mono">
-            Crafted with React, Tailwind & Gemini 3
+            Crafted with React & Tailwind
           </div>
         </div>
       </div>
