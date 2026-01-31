@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center space-x-2">
             <Terminal className="text-emerald-500 w-5 h-5" />
             <span className="font-mono font-bold text-gray-400">
-              © {new Date().getFullYear()} TOQA_AYMAN_GOMAA.sh
+              © {new Date().getFullYear()} TOQA_EZZATLY.sh
             </span>
           </div>
 
