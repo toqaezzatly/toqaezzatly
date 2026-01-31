@@ -1,21 +1,42 @@
 # 👋 Hello, I'm Toqa Ezzatly
-### 🛡️ Cybersecurity Engineer  
+### 🛡️ Cybersecurity Engineer | Offensive Security Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Penetration+Tester;Bughunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Offensive+Security+Researcher;Penetration+Tester;Bug+Hunte" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a **Communication and Electronics Engineer** with a passion for uncovering vulnerabilities and securing digital landscapes. My journey bridges the gap between hardware (IoT/Embedded Systems) and software security. With a track record of identifying **15+ real-world flaws** during my internships, I thrive on solving complex technical challenges.
+I am a **Communication and Electronics Engineer** dedicated to uncovering vulnerabilities and securing digital landscapes. My expertise bridges the gap between **Hardware (IoT/Embedded Systems)** and **Software Security**. 
 
-- 🌍 Check out my Portfolio: [toqaezzatly.github.io/toqaezzatly/](https://toqaezzatly.github.io/toqaezzatly/)
-- 🔭 Currently sharpening my skills in: **Red Teaming & Active Directory Attacks**
-- 🛡️ My Philosophy: *"Defense isn’t merely about building walls; it’s about knowing the hammer that strikes them — and that’s where Ethical Hacking finds its purpose."*
-
+- 🛡️ **Impact:** Identified **15+ real-world flaws** during professional internships.
+- 🔭 **Focus:** Currently deep-diving into **Red Teaming & Active Directory Attacks**.
+- 🌍 **Portfolio:** [toqaezzatly.github.io](https://toqaezzatly.github.io/toqaezzatly/)
+- 💬 **Philosophy:** *"Defense isn’t merely about building walls; it’s about knowing the hammer that strikes them."*
 
 ---
 
-🤝 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/toqaezzatly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toqaezzatly" height="30" width="40" /></a> <a href="mailto:toqaezzatly@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="toqaezzatly" height="30" width="40" /></a> </p>
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Offensive** | Metasploit, Burp Suite, Nmap, Wireshark, SQLmap |
+| **Development** | Python, C/C++, Bash, Assembly |
+| **Specialized** | IoT Security, Active Directory, Web Pentesting |
+| **OS** | Kali Linux, Parrot Security, Windows Server |
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/toqaezzatly" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:toqaezzatly@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://toqaezzatly.github.io/toqaezzatly/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
