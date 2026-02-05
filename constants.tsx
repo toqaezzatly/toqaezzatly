@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
   name: "Toqa Ayman Gomaa",
   title: "Cybersecurity Engineer & Penetration Tester",
   email: "toqaezzatly@gmail.com",
-  phone: "+20 01032793104",
+  phone: "+20 01---4",
   linkedin: "https://linkedin.com/in/toqa-ayman",
   github: "https://github.com/toqa-ayman",
   location: "Alexandria, Egypt"
@@ -80,21 +80,21 @@ export const EXPERIENCES: Experience[] = [
   {
     role: "Penetration Testing Intern",
     company: "DEPI",
-    period: "2024",
+    period: "2024 - 6 months",
     description: "Identified and mitigated 15+ security flaws in real-world web applications.",
     details: ["Web application security assessments", "Vulnerability reporting", "Mitigation strategies"]
   },
   {
     role: "Orange Data Center Intern",
     company: "Orange",
-    period: "2024",
+    period: "2024 - 2 months",
     description: "Focused on CI/CD pipelines, NoSQL/SQL databases, and Secure SDLC practices.",
     details: ["Django development", "Database management", "Automated deployment"]
   },
   {
     role: "Cybersecurity Bootcamp Trainee",
     company: "CyberTalent",
-    period: "2023",
+    period: "2023 - 1 month",
     description: "Practiced exploitation and defense in simulated cyberattack labs.",
     details: ["Red vs Blue team scenarios", "Lab-based exploitation", "Defense mechanisms"]
   }
